@@ -32,3 +32,12 @@ git tag v0.0.0.2
 git push origin main --tags
 ```
 ![Снимок экрана от 2022-05-24 01-38-50](https://user-images.githubusercontent.com/91633974/169919532-21ea254d-1fb3-4a79-91fa-eff4540e60cb.png)
+
+#Релиз
+```
+git tag v0.1.0.0
+git push origin main --tags
+github-release release --user Yaros09 --repo lab-09 --tag v0.1.0.0 --name "general_10"
+```
+![Снимок экрана от 2022-05-24 16-32-52](https://user-images.githubusercontent.com/91633974/170048315-65efcfde-08bc-40ac-b650-d24fdc97c0fc.png)
+
